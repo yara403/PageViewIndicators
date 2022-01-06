@@ -11,7 +11,8 @@ When the PageView moves, the Dot indexed by the new page is highlighted (color a
 ## Installation
 
 1. Clone the repo: 
-  git clone https://github.com/yara403/PageViewIndicators.git
+
+    git clone https://github.com/yara403/PageViewIndicators.git
 
 2. Open it with you favorite IDE for Flutter projects, VS Code, for example
 3. Run and enjoy it
