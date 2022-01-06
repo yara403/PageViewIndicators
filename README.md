@@ -1,16 +1,15 @@
 # pageview_with_indicators
 
-A new Flutter project.
+This project is a sample of how to add a dot indicator to a PageView, making the PageView look like a slideshow.
+PageView with indicators was built with the Flutter framework and Mobx as the basis for state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+The PageView and the Dot indicator use animation resources.
+When the PageView moves, the Dot indexed by the new page is highlighted (color and size are changed). If the Dot is touched, the PageView moves the current page to the page indexed by the Dot.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo
+2. Open it with you favorite IDE for Flutter projects, VS Code, for example
+3. Run and enjoy it
