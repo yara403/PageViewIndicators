@@ -16,3 +16,10 @@ When the PageView moves, the Dot indexed by the new page is highlighted (color a
 
 2. Open it with you favorite IDE for Flutter projects, VS Code, for example
 3. Run and enjoy it
+
+## Getting Started
+
+1. You can use this project as example to build your own PageView with indicator dots
+2. The Presentation class contains mock data
+3. The PresentationPage contains the PageView. You can customize things like animation type by your way
+4. At Dot widget class you can customize its shape, color, margin, size, etc.
