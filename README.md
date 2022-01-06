@@ -1,6 +1,6 @@
 # pageview_with_indicators
 
-![](https://user-images.githubusercontent.com/76740760/148407821-2cc05b66-f882-4f40-8bad-2de14dbfd0d4.png | width=200)
+<img src="https://user-images.githubusercontent.com/76740760/148407821-2cc05b66-f882-4f40-8bad-2de14dbfd0d4.png" width=300 />
 
 This project is a sample of how to add a dot indicator to a PageView, making the PageView look like a slideshow.
 PageView with indicators was built with the Flutter framework and Mobx as the basis for state management.
