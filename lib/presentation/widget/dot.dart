@@ -55,6 +55,7 @@ class _DotWidgetState extends State<DotWidget> {
 
   @override
   Widget build(BuildContext context) {
+    //InkWell must be wrapped with Material widget!!!
     return InkWell(
       onTap: widget.onTap,
       child: AnimatedContainer(
